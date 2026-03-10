@@ -1,0 +1,11 @@
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Core\bin\Debug\net10.0\FleetCar.Core.deps.json
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Core\bin\Debug\net10.0\FleetCar.Core.dll
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Core\bin\Debug\net10.0\FleetCar.Core.pdb
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Core\obj\Debug\net10.0\FleetCar.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Core\obj\Debug\net10.0\FleetCar.Core.AssemblyInfoInputs.cache
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Core\obj\Debug\net10.0\FleetCar.Core.AssemblyInfo.cs
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Core\obj\Debug\net10.0\FleetCar.Core.csproj.CoreCompileInputs.cache
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Core\obj\Debug\net10.0\FleetCar.Core.dll
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Core\obj\Debug\net10.0\refint\FleetCar.Core.dll
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Core\obj\Debug\net10.0\FleetCar.Core.pdb
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Core\obj\Debug\net10.0\ref\FleetCar.Core.dll

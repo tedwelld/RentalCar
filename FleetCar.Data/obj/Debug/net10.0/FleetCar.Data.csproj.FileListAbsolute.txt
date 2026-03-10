@@ -1,0 +1,17 @@
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Data\bin\Debug\net10.0\FleetCar.Data.deps.json
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Data\bin\Debug\net10.0\FleetCar.Data.runtimeconfig.json
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Data\bin\Debug\net10.0\FleetCar.Data.dll
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Data\bin\Debug\net10.0\FleetCar.Data.pdb
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Data\bin\Debug\net10.0\FleetCar.Core.dll
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Data\bin\Debug\net10.0\FleetCar.Core.pdb
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Data\obj\Debug\net10.0\FleetCar.Data.csproj.AssemblyReference.cache
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Data\obj\Debug\net10.0\FleetCar.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Data\obj\Debug\net10.0\FleetCar.Data.AssemblyInfoInputs.cache
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Data\obj\Debug\net10.0\FleetCar.Data.AssemblyInfo.cs
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Data\obj\Debug\net10.0\FleetCar.Data.csproj.CoreCompileInputs.cache
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Data\obj\Debug\net10.0\FleetCar.151AF719.Up2Date
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Data\obj\Debug\net10.0\FleetCar.Data.dll
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Data\obj\Debug\net10.0\refint\FleetCar.Data.dll
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Data\obj\Debug\net10.0\FleetCar.Data.pdb
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Data\obj\Debug\net10.0\FleetCar.Data.genruntimeconfig.cache
+C:\Users\tedwell_d\source\repos\RentalCar\FleetCar.Data\obj\Debug\net10.0\ref\FleetCar.Data.dll
